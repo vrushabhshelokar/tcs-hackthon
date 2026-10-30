@@ -1,0 +1,6 @@
+{
+  "name": "ShopFloor Buddy",
+  "description": "Multilingual, voice-enabled factory companion providing accessible machine info and approved FAQs for manufacturing workers in English, Hindi, and Marathi.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
